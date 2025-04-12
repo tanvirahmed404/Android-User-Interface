@@ -8,8 +8,9 @@ A simple login form ui design in Android Studio.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/tanvirahmed404/Android-User-Interface/blob/master/ui.jpg)
 ![App Screenshot](https://github.com/tanvirahmed404/Android-User-Interface/blob/master/Screenshot_2.jpg)
+![App Screenshot](https://github.com/tanvirahmed404/Android-User-Interface/blob/master/ui.jpg)
+
 
 
 ## Deployment
